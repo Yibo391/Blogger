@@ -1,0 +1,11 @@
+org/example/repository/UserRepository.class
+org/example/service/ArticleService.class
+org/example/Application.class
+org/example/DatabaseInitializer.class
+org/example/service/UserService.class
+org/example/controller/UserController.class
+org/example/controller/ArticleController.class
+org/example/repository/ArticleRepository.class
+org/example/config/SecurityConfig.class
+org/example/model/Article.class
+org/example/model/User.class
